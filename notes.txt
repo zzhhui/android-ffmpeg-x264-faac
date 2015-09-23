@@ -1,0 +1,1 @@
+this project is very useful for me. Espacially the faac and x264 compiled successfully on ARM cpu.
